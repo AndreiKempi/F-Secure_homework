@@ -14,5 +14,5 @@ Main functions:
 Language: Python 3.8 
 IDE: PyCharm 2019.3
 
-Running: To run programm use command 'python SiteMonitor.py' from directory 'F-Secure_HW/scr' 
-Logs: Logs will be safed in directory 'F-Secure_HW/logs'
+Running: To run programm use command 'python SiteMonitor.py' from directory 'scr' 
+Logs: Logs will be safed in directory 'logs'
