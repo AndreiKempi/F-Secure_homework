@@ -1,0 +1,36 @@
+INFO     [2021-02-27 17:58:19,667]  selected host: www.google.com, schema: http
+INFO     [2021-02-27 17:58:19,841]  Sending GET request to http://www.google.com/
+INFO     [2021-02-27 17:58:19,841]  Request sent successfully!
+INFO     [2021-02-27 17:58:19,843]  Page verified successfully
+INFO     [2021-02-27 17:58:19,843]  Status Code: 200
+INFO     [2021-02-27 17:58:19,843]  Response Time: 0:00:00.165408
+INFO     [2021-02-27 17:58:24,844]  selected host: twitter.com, schema: http
+INFO     [2021-02-27 17:58:25,493]  Sending GET request to https://twitter.com/
+INFO     [2021-02-27 17:58:25,493]  Request sent successfully!
+INFO     [2021-02-27 17:58:25,494]  Page verified successfully
+INFO     [2021-02-27 17:58:25,495]  Status Code: 200
+INFO     [2021-02-27 17:58:25,495]  Response Time: 0:00:00.357570
+INFO     [2021-02-27 17:58:30,495]  selected host: f-secure.com, schema: http
+INFO     [2021-02-27 17:58:30,796]  Sending GET request to https://www.f-secure.com/fi
+INFO     [2021-02-27 17:58:30,796]  Request sent successfully!
+INFO     [2021-02-27 17:58:30,796]  Page verified successfully
+INFO     [2021-02-27 17:58:30,796]  Status Code: 200
+INFO     [2021-02-27 17:58:30,796]  Response Time: 0:00:00.045930
+INFO     [2021-02-27 17:58:45,799]  selected host: www.google.com, schema: http
+INFO     [2021-02-27 17:58:45,910]  Sending GET request to http://www.google.com/
+INFO     [2021-02-27 17:58:45,910]  Request sent successfully!
+INFO     [2021-02-27 17:58:45,911]  Page verified successfully
+INFO     [2021-02-27 17:58:45,911]  Status Code: 200
+INFO     [2021-02-27 17:58:45,911]  Response Time: 0:00:00.104163
+INFO     [2021-02-27 17:58:50,911]  selected host: twitter.com, schema: http
+INFO     [2021-02-27 17:58:51,327]  Sending GET request to https://twitter.com/
+INFO     [2021-02-27 17:58:51,327]  Request sent successfully!
+INFO     [2021-02-27 17:58:51,328]  Page verified successfully
+INFO     [2021-02-27 17:58:51,328]  Status Code: 200
+INFO     [2021-02-27 17:58:51,328]  Response Time: 0:00:00.190743
+INFO     [2021-02-27 17:58:56,328]  selected host: f-secure.com, schema: http
+INFO     [2021-02-27 17:58:56,446]  Sending GET request to https://www.f-secure.com/fi
+INFO     [2021-02-27 17:58:56,447]  Request sent successfully!
+INFO     [2021-02-27 17:58:56,447]  Page verified successfully
+INFO     [2021-02-27 17:58:56,447]  Status Code: 200
+INFO     [2021-02-27 17:58:56,447]  Response Time: 0:00:00.040761
